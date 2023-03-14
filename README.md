@@ -7,4 +7,5 @@ Fig.1 a: Application process of Mpox-AISM. b-e: Application scenarios in differe
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/78481822/224525487-24007cd0-0a09-4e56-b4a8-811c65ecdb00.png">
 
 Fig.2 a: Box distribution diagram of prediction probability of each category. b: Mobile application page. c: PC application page：
+
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/78481822/224525503-4d2fb159-b61d-49f1-82cc-1ad0946b14a0.png">
